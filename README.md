@@ -1,4 +1,4 @@
-# Identity & Access Management (IAM) Portfolio
+# Identity & Access Management -OKTA & AD
 
 ## 🚀Project Overview 
 
