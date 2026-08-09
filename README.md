@@ -31,10 +31,9 @@ This lab is designed to demonstrate skills in:
 
 ### Phase 1: Active Directory
 - Created a server on Microsoft Windows 2022 Server.
-- Provisioned a domain controller on home-labs Hyper V.
-- 
+- Built a domain controller called VineTech.lab on home-labs Hyper V.
+- Provisioned users in OU and RBAC
 
-### Okta Labs
-*This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
+###
 
 
