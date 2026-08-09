@@ -22,16 +22,16 @@ This repository contains hands-on IAM lab journey, documented from my home-lab b
 This lab is designed to demonstrate skills in:
 
 - OKTA
-- Active Directory Domain Service (AD DS)
+- Active Directory (AD DS) - Hybrid environment
 - Windows Server 2022 Data center
 - User Lifecycle Management (JML) process
 - RBAC
+- SAML/SSO integration
 
 
-
-### Phase 1: Active Driectory
+### Phase 1: Active Directory
 - Created a server on Microsoft Windows 2022 Server.
-- Provisioned a domain controller on home-labs HyperV.
+- Provisioned a domain controller on home-labs Hyper V.
 - 
 
 ### Okta Labs
