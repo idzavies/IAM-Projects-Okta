@@ -2,7 +2,7 @@
 
 ## 🚀Project Overview 
 
-This repository contains hands-on IAM lab journey, documented from my home-lab building a production-like on-premises Active Directory environment hosted in Microsoft Hyper V manager environment, demonstrating core enterprise identity management fundamentals including domain services deployment, user lifecycle management, organizational structure design, security group configuration, and workstation domain join operations.
+This repository contains hands-on IAM lab journey, documented from my home-lab building a production-like on-premises Active Directory environment hosted in Microsoft's server manager environment, demonstrating core enterprise identity management fundamentals including domain services deployment, user lifecycle management, organizational structure design, security group configuration, and workstation domain join operations.
 
 
 
